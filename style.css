@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+background-image: url("https://img.freepik.com/free-vector/dark-hexagonal-background-with-gradient-color_79603-1409.jpg");
+background-repeat: no-repeat;
+height: 100vh;
+background-size: cover;
+color: red;
+
+
+}
+.heading{
+    /* text-shadow: 2px 1px grey; */
+    text-shadow: 5px 5px 10px blue;
+margin-top: 50px;
+font-size: 55px;
+color: aqua;
+/* color: red; */
+font-weight: 700;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+/* p{
+    color: 
+    font-size: 50px;
+    font-weight: 00;
+} */
+/* .btn-primary{
+    margin-top: 150px;
+} */
+#userInput{
+    border-radius: 5px;
+    border-color: black;
+    background-color: rgb(255, 255, 147);
+    border: 4px solid yellow;
+}
+button{
+    margin-left: 20px;
+    border-radius: 6px;
+    background-color: yellow ;
+    border: 4px solid yellow
+    
+    
+}
+.container{
+    border: 10px solid blue;
+    height: 93vh;
+    width: 55%;
+    /* background-color:black; */
+    margin-top: 20px;
+    margin-bottom: 100px;
+    /* background-image: url("background-image: url("https://img.freepik.com/free-vector/dark-hexagonal-background-with-gradient-color_79603-1409.jpg");"); */
+    background-image: url("https://w.forfun.com/fetch/67/674d9f64c8a3c0110654ebdd1e037503.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#result{
+    color: aqua;
+    margin-top: 20px;
+}
+.marquee{
+    margin-top:35px ;
+    font-size: 40px;
+    font-weight: 600;
+}
+
